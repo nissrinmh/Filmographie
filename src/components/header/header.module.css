@@ -1,0 +1,11 @@
+.header{
+   background: linear-gradient(to right,rgb(130, 130, 209),rgb(35, 171, 196),rgb(72, 182, 145));
+}
+.container{
+   padding: 4px;  
+}
+.titre{
+   font-weight: bold;
+   text-align: center;
+   color: rgb(41, 41, 160);
+}

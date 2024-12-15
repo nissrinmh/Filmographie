@@ -1,0 +1,36 @@
+/* footer.module.css */
+
+/* Style du footer */
+.footer {
+    background: linear-gradient(to right, rgb(130, 130, 209), rgb(35, 171, 196), rgb(72, 182, 145)); /* Même dégradé que le header */
+    color: white; 
+    padding: 20px 0; 
+    text-align: center; 
+    font-size: 14px;
+    margin-top: 5%;
+  }
+  
+  .footer .container {
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 0 15px; 
+  }
+  
+  .footer p {
+    margin: 0; 
+    font-weight: normal;
+  }
+  
+ 
+  
+
+  .footer a {
+    color: white;
+    text-decoration: none; 
+  }
+  
+  .footer a:hover {
+    color: #f7a700; 
+    text-decoration: underline; 
+  }
+  
