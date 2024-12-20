@@ -59,10 +59,14 @@
   .but:hover {
     background-color: #0deeaa;
 }
+.cont{
+  display: flex;
+}
 
 .favoriteButton {
     display: flex;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
+    width: fit-content;
     background-color: #f7a700; 
     color: white;  
     padding: 10px 20px;  

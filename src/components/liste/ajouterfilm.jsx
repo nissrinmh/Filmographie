@@ -7,7 +7,6 @@ export default function Ajouterfilm({ onAddFilm }) {
   const [genre, setGenre] = useState("");
   const [rating, setRating] = useState("");
 
-  // États pour les messages d'erreur
   const [errors, setErrors] = useState({
     title: "",
     director: "",
